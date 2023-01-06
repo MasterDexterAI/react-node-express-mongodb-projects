@@ -9,7 +9,7 @@
 
 # Beginner Projects
 
-1. [Captcha using HTML CSS JavaScript]()
+1. [Captcha using HTML CSS JavaScript](https://github.com/MasterDexterAI/react-node-express-mongodb-projects/tree/main/1_Beginner%20Projects/1_Captcha%20Generator)
 2. Speech Recognition using JavaScript
 3. Hit the Mole Game using JavaScrip
 
